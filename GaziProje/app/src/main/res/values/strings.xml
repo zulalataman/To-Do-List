@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gazi To-Do</string>
+    <string name="addicon">icon_button</string>
+    <string name="Agenda">To-Do</string>
+    <string name="save_button">Kaydet</string>
+    <string name="write_your_task_here">Görevini yaz..</string>
+    <string name="set_due_date">Son Tarih</string>
+    <string name="this_is_task_1">Görev 1</string>
+    <string name="date">20-05-2022</string>
+    <string name="text_task">görev 1</string>
+    <string name="Sign_in">Giriş</string>
+</resources>
